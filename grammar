@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Grammar Plan – Portrait A4</title>
+<style>
+  @page {
+    size: A4 portrait;
+    margin: 6mm;
+  }
+  body {
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 7.2pt;
+    line-height: 1.2;
+    margin: 0;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+  }
+  td {
+    border: 0.3px solid #999;
+    padding: 2px 4px;
+    text-align: center;
+    vertical-align: middle;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  thead td {
+    font-weight: bold;
+    background: #eee;
+    font-size: 7.8pt;
+  }
+  @media print {
+    body { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    thead td { background: #ddd; }
+    @page { margin: 5mm; }
+  }
+</style>
+</head>
+<body>
+<table>
+<thead>
+<tr><td width="38%">Structure</td><td width="24%">Keywords</td><td width="38%">Example</td></tr>
+</thead>
+<tbody>
+<tr><td>S + am/is/are + noun</td><td>am / is / are + noun</td><td>I am a student.</td></tr>
+<tr><td>S + am/is/are + adjective</td><td>am / is / are + adjective</td><td>She is tired.</td></tr>
+<tr><td>S + am/is/are + place</td><td>am / is / are + preposition + place</td><td>They are at the park.</td></tr>
+<tr><td>S + was/were + noun</td><td>was / were + noun</td><td>He was a teacher.</td></tr>
+<tr><td>S + was/were + adjective</td><td>was / were + adjective</td><td>She was happy.</td></tr>
+<tr><td>S + was/were + place</td><td>was / were + place</td><td>They were at home yesterday.</td></tr>
+<tr><td>I/You/We/They + verb (base)</td><td>subject + base verb</td><td>I work in a bank.</td></tr>
+<tr><td>He/She/It + verb + -s/-es/-ies</td><td>he/she/it + -s/-es/-ies</td><td>She works in a hospital.</td></tr>
+<tr><td>S + do/does + not + verb (base)</td><td>don't / doesn't + base verb</td><td>I don't like coffee. She doesn't eat meat.</td></tr>
+<tr><td>Do/Does + S + verb (base)?</td><td>do / does + subject + base</td><td>Do you speak English? Does she live here?</td></tr>
+<tr><td>S + am/is/are + verb-ing</td><td>am/is/are + -ing</td><td>I am reading a book.</td></tr>
+<tr><td>S + am/is/are + not + verb-ing</td><td>am/is/are + not + -ing</td><td>She is not listening.</td></tr>
+<tr><td>Am/Is/Are + S + verb-ing?</td><td>am/is/are + subject + -ing</td><td>Are you coming?</td></tr>
+<tr><td>S + verb (present) + but + S + present continuous</td><td>usually vs. now / today</td><td>I usually walk but today I am driving.</td></tr>
+<tr><td>S + adverb of frequency + verb (base)</td><td>always / usually / often / sometimes / rarely / never</td><td>I always drink coffee in the morning.</td></tr>
+<tr><td>S + am/is/are + adverb of frequency + adjective</td><td>always / usually / often / sometimes</td><td>She is never late.</td></tr>
+<tr><td>S + verb + -ed/-d/-ied (regular past)</td><td>yesterday / last / ago</td><td>I walked to school yesterday.</td></tr>
+<tr><td>S + irregular past verb</td><td>go-went / buy-bought / see-saw / eat-ate</td><td>She went to the market.</td></tr>
+<tr><td>S + did + not + verb (base)</td><td>didn't + base verb</td><td>I didn't see him.</td></tr>
+<tr><td>Did + S + verb (base)?</td><td>did + subject + base</td><td>Did you enjoy the party?</td></tr>
+<tr><td>S + was/were + verb-ing</td><td>was/were + -ing</td><td>I was watching TV at 8pm.</td></tr>
+<tr><td>S + was/were + not + verb-ing</td><td>was/were + not + -ing</td><td>They were not sleeping.</td></tr>
+<tr><td>Was/Were + S + verb-ing?</td><td>was/were + subject + -ing</td><td>Were you listening?</td></tr>
+<tr><td>When + S + past simple, S + past continuous</td><td>when + past simple + past continuous</td><td>I was walking home when I saw the accident.</td></tr>
+<tr><td>While + S + past continuous, S + past simple</td><td>while + past continuous + past simple</td><td>While I was walking home I saw an accident.</td></tr>
+<tr><td>S + am/is/are + going to + verb (base)</td><td>going to + base verb</td><td>I am going to study medicine.</td></tr>
+<tr><td>S + am/is/are + not + going to + verb (base)</td><td>not going to + base verb</td><td>She is not going to come.</td></tr>
+<tr><td>Am/Is/Are + S + going to + verb (base)?</td><td>going to + subject + base</td><td>Are you going to travel?</td></tr>
+<tr><td>S + will + verb (base)</td><td>will / 'll + base verb</td><td>I will help you.</td></tr>
+<tr><td>S + will + not + verb (base)</td><td>won't + base verb</td><td>She won't come tomorrow.</td></tr>
+<tr><td>Will + S + verb (base)?</td><td>will + subject + base</td><td>Will you help me?</td></tr>
+<tr><td>S + will + be + verb-ing</td><td>will be + -ing</td><td>This time tomorrow I will be flying to London.</td></tr>
+<tr><td>S + adjective + noun</td><td>adjective before noun</td><td>A beautiful flower.</td></tr>
+<tr><td>S + be + adjective</td><td>adjective after be</td><td>The flower is beautiful.</td></tr>
+<tr><td>S + be + adjective + -er + than + noun</td><td>-er + than + noun</td><td>She is taller than me.</td></tr>
+<tr><td>S + be + more + adjective + than + noun</td><td>more + adjective + than</td><td>This book is more interesting than that one.</td></tr>
+<tr><td>S + be + the + adjective + -est</td><td>the + -est</td><td>He is the best student.</td></tr>
+<tr><td>S + be + the + most + adjective</td><td>the + most + adjective</td><td>She is the most beautiful girl.</td></tr>
+<tr><td>S + verb + adverb</td><td>verb + -ly / fast / hard / well</td><td>She sings beautifully.</td></tr>
+<tr><td>S + verb + more + adverb + than + noun</td><td>more + adverb + than</td><td>She runs more quickly than me.</td></tr>
+<tr><td>S + verb + the + most + adverb</td><td>the + most + adverb</td><td>He arrived the earliest.</td></tr>
+<tr><td>S + like/enjoy + verb-ing</td><td>like / enjoy / love / hate + -ing</td><td>I like swimming.</td></tr>
+<tr><td>S + would like + to + verb</td><td>would like + to + base verb</td><td>I would like to go out.</td></tr>
+<tr><td>Q-word + do/does + S + verb (base)?</td><td>what / where / when / who / how + do/does</td><td>What do you want?</td></tr>
+<tr><td>Q-word + did + S + verb (base)?</td><td>what / where / when / who / how + did</td><td>Where did you go?</td></tr>
+<tr><td>S + verb, + and + S + verb</td><td>and</td><td>She speaks English and she speaks French.</td></tr>
+<tr><td>S + verb, + but + S + verb</td><td>but</td><td>He is tall but his brother is short.</td></tr>
+<tr><td>S + verb + because + S + verb</td><td>because</td><td>I stayed home because I was sick.</td></tr>
+<tr><td>S + verb, + so + S + verb</td><td>so</td><td>He was tired so he went to bed.</td></tr>
+<tr><td>There is + a/an + singular noun</td><td>There is + singular</td><td>There is a cat in the garden.</td></tr>
+<tr><td>There is + no + singular noun</td><td>There is + no + singular</td><td>There is no milk.</td></tr>
+<tr><td>There are + number + plural noun</td><td>There are + plural</td><td>There are three chairs.</td></tr>
+<tr><td>There are + no + plural noun</td><td>There are + no + plural</td><td>There are no apples.</td></tr>
+<tr><td>This/That + is + singular noun</td><td>this / that + is</td><td>This is my desk. That is her bag.</td></tr>
+<tr><td>These/Those + are + plural noun</td><td>these / those + are</td><td>Those are my shoes.</td></tr>
+<tr><td>Verb (base)! + object/complement</td><td>imperative</td><td>Sit down. Open the door.</td></tr>
+<tr><td>Don't + verb (base)! + object/complement</td><td>don't + base verb</td><td>Don't run. Don't be late.</td></tr>
+<tr><td>S + can + verb (base)</td><td>can + ability/permission</td><td>I can swim.</td></tr>
+<tr><td>S + cannot/can't + verb (base)</td><td>can't + base verb</td><td>She can't drive.</td></tr>
+<tr><td>Can + S + verb (base)?</td><td>can + subject + base</td><td>Can you help me?</td></tr>
+<tr><td>S + would like + noun</td><td>would like + noun</td><td>I would like a coffee.</td></tr>
+<tr><td>S + would like + to + verb (base)</td><td>would like + to + base</td><td>She would like to go home.</td></tr>
+<tr><td>S + verb + object pronoun</td><td>me / him / her / it / us / them</td><td>I like him very much.</td></tr>
+<tr><td>S + verb + preposition + object pronoun</td><td>to me / for her / with us</td><td>She is waiting for me.</td></tr>
+<tr><td>S + possessive adjective + noun</td><td>my / your / his / her / its / our / their + noun</td><td>My house is near the school.</td></tr>
+<tr><td>Possessive noun + noun</td><td>name + 's / s' + noun</td><td>This is Tom's car. The boys' room.</td></tr>
+<tr><td>S + have/has + got + noun</td><td>have got / has got + noun</td><td>I have got a new phone.</td></tr>
+<tr><td>S + have/has + not + got + noun</td><td>haven't got / hasn't got + noun</td><td>She has not got a car.</td></tr>
+<tr><td>Have/Has + S + got + noun?</td><td>have/has + subject + got</td><td>Have you got a pen?</td></tr>
+<tr><td>Q-word + am/is/are + S?</td><td>what / where / who / when / why + be</td><td>Where is the station? Who are they?</td></tr>
+<tr><td>S + am/is/are + in + place</td><td>in + place</td><td>She is in the room.</td></tr>
+<tr><td>S + am/is/are + on + place</td><td>on + surface</td><td>The book is on the table.</td></tr>
+<tr><td>S + am/is/are + under + place</td><td>under + place</td><td>The cat is under the table.</td></tr>
+<tr><td>S + am/is/are + next to + place</td><td>next to + place</td><td>The bank is next to the post office.</td></tr>
+<tr><td>S + am/is/are + between + A + and + B</td><td>between + two things</td><td>I am sitting between Tom and Ann.</td></tr>
+<tr><td>S + am/is/are + behind + place</td><td>behind + place</td><td>The garden is behind the house.</td></tr>
+<tr><td>S + am/is/are + in front of + place</td><td>in front of + place</td><td>The car is in front of the garage.</td></tr>
+<tr><td>S + have/has + some + noun</td><td>some (positive)</td><td>I have some money.</td></tr>
+<tr><td>S + do/does + not + have + any + noun</td><td>any (negative)</td><td>I don't have any brothers.</td></tr>
+<tr><td>Do/Does + S + have + any + noun?</td><td>any (question)</td><td>Do you have any questions?</td></tr>
+<tr><td>How much + uncountable noun + … ?</td><td>how much (uncountable)</td><td>How much time do you need?</td></tr>
+<tr><td>How many + countable noun + … ?</td><td>how many (countable)</td><td>How many apples are there?</td></tr>
+<tr><td>S + have/has + a lot of + noun</td><td>a lot of (countable & uncountable)</td><td>She has a lot of friends. We have a lot of work.</td></tr>
+<tr><td>S + should + verb (base)</td><td>should (advice)</td><td>You should see a doctor.</td></tr>
+<tr><td>S + should + not + verb (base)</td><td>shouldn't</td><td>You shouldn't eat so much sugar.</td></tr>
+<tr><td>S + must + verb (base)</td><td>must (strong obligation)</td><td>You must wear a seatbelt.</td></tr>
+<tr><td>S + must + not + verb (base)</td><td>mustn't (prohibition)</td><td>You mustn't smoke here.</td></tr>
+<tr><td>S + have/has + to + verb (base)</td><td>have to / has to (external obligation)</td><td>I have to go now.</td></tr>
+<tr><td>S + do/does + not + have to + verb (base)</td><td>don't have to / doesn't have to (no obligation)</td><td>You don't have to come.</td></tr>
+<tr><td>Could + S + verb (base)?</td><td>could (polite request)</td><td>Could you open the window?</td></tr>
+<tr><td>S + verb + at + time</td><td>at + clock time</td><td>The class starts at 9 o'clock.</td></tr>
+<tr><td>S + verb + on + day/date</td><td>on + day/date</td><td>I work on Monday. She was born on 5th May.</td></tr>
+<tr><td>S + verb + in + month/year/season</td><td>in + month/year/season</td><td>She was born in June. I started in 2020.</td></tr>
+<tr><td>S + verb + from + time + to + time</td><td>from...to (range)</td><td>The shop is open from 9 to 5.</td></tr>
+<tr><td>S + verb + until + time</td><td>until (end point)</td><td>Wait until Friday.</td></tr>
+<tr><td>positive statement, + negative question tag?</td><td>isn't it? / don't you? / aren't you?</td><td>It is cold, isn't it?</td></tr>
+<tr><td>negative statement, + positive question tag?</td><td>is he? / do you? / are they?</td><td>You don't like fish, do you?</td></tr>
+<tr><td>S + used to + verb (base)</td><td>used to (past habit/state)</td><td>I used to live in a village.</td></tr>
+<tr><td>S + did + not + use to + verb (base)</td><td>didn't use to</td><td>She didn't use to like coffee.</td></tr>
+<tr><td>Did + S + use to + verb (base)?</td><td>did + subject + use to</td><td>Did you use to play football?</td></tr>
+<tr><td>S + verb + something/nothing/anywhere + adjective</td><td>something / nothing / somewhere</td><td>There is something strange. I didn't go anywhere.</td></tr>
+<tr><td>S + verb + a/an + singular countable noun</td><td>a/an (first mention)</td><td>I saw a dog.</td></tr>
+<tr><td>S + verb + the + noun</td><td>the (known / unique)</td><td>The dog was big.</td></tr>
+<tr><td>S + verb + plural noun (no article)</td><td>no article (general)</td><td>I like dogs.</td></tr>
+<tr><td>S + have/has + ever + past participle?</td><td>have/has + ever + past participle</td><td>Have you ever been to Japan?</td></tr>
+<tr><td>S + have/has + never + past participle</td><td>have/has + never + past participle</td><td>I have never eaten sushi.</td></tr>
+<tr><td>S + have/has + just + past participle</td><td>have/has + just + past participle</td><td>She has just arrived.</td></tr>
+<tr><td>S + have/has + already + past participle</td><td>have/has + already + past participle</td><td>I have already finished.</td></tr>
+<tr><td>S + have/has + not + past participle + yet</td><td>haven't/hasn't + past participle + yet</td><td>He hasn't called yet.</td></tr>
+<tr><td>S + have/has + past participle + for + duration</td><td>for + length of time</td><td>I have lived here for five years.</td></tr>
+<tr><td>S + have/has + past participle + since + point</td><td>since + start point</td><td>She has worked here since 2019.</td></tr>
+<tr><td>S + have/has + been + verb-ing + for/since</td><td>have/has been + -ing + for/since</td><td>I have been waiting for an hour.</td></tr>
+<tr><td>S + have/has + past participle (result) vs. S + have/has + been + verb-ing (duration)</td><td>result vs. duration</td><td>I have cleaned the car. I have been cleaning it.</td></tr>
+<tr><td>S + past simple + specific time … S + present perfect + ever/since/for</td><td>past simple vs. present perfect</td><td>I saw him yesterday. I have known him for years.</td></tr>
+<tr><td>S + had + past participle + before/when/by + S + past simple</td><td>had + past participle</td><td>When I arrived the bus had already left.</td></tr>
+<tr><td>S + had + been + verb-ing + for + before/when + S + past simple</td><td>had been + -ing + for</td><td>She had been working there for years before she retired.</td></tr>
+<tr><td>S + will have + past participle + by + future time</td><td>by + future time</td><td>By next year I will have finished my course.</td></tr>
+<tr><td>S + will have + been + verb-ing + for + by + future time</td><td>will have been + -ing + for</td><td>By June I will have been working here for three years.</td></tr>
+<tr><td>If + present simple, + present simple</td><td>zero conditional</td><td>If you heat ice, it melts.</td></tr>
+<tr><td>If + present simple, + will + verb (base)</td><td>first conditional</td><td>If it rains tomorrow, we will stay home.</td></tr>
+<tr><td>If + past simple, + would + verb (base)</td><td>second conditional</td><td>If I had more money, I would travel.</td></tr>
+<tr><td>If + past perfect, + would have + past participle</td><td>third conditional</td><td>If I had studied, I would have passed.</td></tr>
+<tr><td>If + past perfect, + would + verb (base)</td><td>mixed conditional</td><td>If she had taken it, she would be fine now.</td></tr>
+<tr><td>S + verb + verb-ing</td><td>enjoy / finish / mind / suggest + -ing</td><td>She enjoys cooking.</td></tr>
+<tr><td>S + verb + to + verb (base)</td><td>want / decide / hope / plan + to</td><td>I want to leave.</td></tr>
+<tr><td>S + stop + verb-ing</td><td>stop + -ing (quit)</td><td>He stopped smoking.</td></tr>
+<tr><td>S + stop + to + verb (base)</td><td>stop + to (purpose)</td><td>He stopped to smoke.</td></tr>
+<tr><td>S + remember + verb-ing</td><td>remember + -ing (past memory)</td><td>I remember locking the door.</td></tr>
+<tr><td>S + remember + to + verb (base)</td><td>remember + to (obligation)</td><td>Remember to lock the door.</td></tr>
+<tr><td>S + try + verb-ing</td><td>try + -ing (experiment)</td><td>Try turning the key.</td></tr>
+<tr><td>S + try + to + verb (base)</td><td>try + to (attempt)</td><td>I tried to open it.</td></tr>
+<tr><td>S + forget + verb-ing</td><td>forget + -ing (past action)</td><td>I'll never forget meeting her.</td></tr>
+<tr><td>S + forget + to + verb (base)</td><td>forget + to (fail)</td><td>I forgot to call her.</td></tr>
+<tr><td>S + regret + verb-ing</td><td>regret + -ing (sorry for past)</td><td>I regret saying that.</td></tr>
+<tr><td>S + regret + to + verb (base)</td><td>regret + to (formal news)</td><td>I regret to inform you.</td></tr>
+<tr><td>S + be + used to + verb-ing</td><td>be used to + -ing</td><td>I am used to waking up early.</td></tr>
+<tr><td>S + get + used to + verb-ing</td><td>get used to + -ing</td><td>I am getting used to the weather.</td></tr>
+<tr><td>S + said (that) + S + past tense</td><td>said + backshifted clause</td><td>She said she was tired.</td></tr>
+<tr><td>S + told + person + (that) + S + past tense</td><td>told + person + backshifted</td><td>He told me he had seen it.</td></tr>
+<tr><td>S + asked + if/whether + S + past tense</td><td>asked + if/whether</td><td>She asked if I was hungry.</td></tr>
+<tr><td>S + asked + Q-word + S + past tense</td><td>asked + wh- word</td><td>He asked where I lived.</td></tr>
+<tr><td>S + told/asked + person + to + verb (base)</td><td>told/asked + to</td><td>She told me to wait.</td></tr>
+<tr><td>S + told/asked + person + not to + verb (base)</td><td>told/asked + not to</td><td>He asked us not to be late.</td></tr>
+<tr><td>S + think/believe/know/hope + (that) + S + verb</td><td>that-clause (noun clause)</td><td>I think that he is right.</td></tr>
+<tr><td>S + don't know + if/whether + S + verb</td><td>whether/if clause</td><td>I don't know whether she will come.</td></tr>
+<tr><td>S + don't know + Q-word + S + verb</td><td>wh- clause</td><td>I don't understand what you mean.</td></tr>
+<tr><td>S + may/might/could + verb (base)</td><td>possibility (present/future)</td><td>It might rain later. She could be home.</td></tr>
+<tr><td>S + must be + noun/adjective</td><td>deduction (certain now)</td><td>She must be tired.</td></tr>
+<tr><td>S + might be/could be + noun/adjective</td><td>deduction (possible now)</td><td>He could be at the gym.</td></tr>
+<tr><td>S + can't be + noun/adjective</td><td>deduction (impossible now)</td><td>He can't be serious.</td></tr>
+<tr><td>S + must have + past participle</td><td>deduction (certain past)</td><td>He must have missed the bus.</td></tr>
+<tr><td>S + might have/could have + past participle</td><td>deduction (possible past)</td><td>She could have forgotten.</td></tr>
+<tr><td>S + can't have + past participle</td><td>deduction (impossible past)</td><td>She can't have seen us.</td></tr>
+<tr><td>S + am/is/are + past participle (+ by agent)</td><td>passive present simple</td><td>The room is cleaned every day.</td></tr>
+<tr><td>S + was/were + past participle (+ by agent)</td><td>passive past simple</td><td>The window was broken yesterday.</td></tr>
+<tr><td>S + am/is/are + being + past participle</td><td>passive present continuous</td><td>The house is being painted.</td></tr>
+<tr><td>S + was/were + being + past participle</td><td>passive past continuous</td><td>The road was being repaired.</td></tr>
+<tr><td>S + have/has + been + past participle</td><td>passive present perfect</td><td>The work has been completed.</td></tr>
+<tr><td>S + had + been + past participle</td><td>passive past perfect</td><td>The project had been finished.</td></tr>
+<tr><td>S + will be + past participle</td><td>passive future</td><td>The results will be announced tomorrow.</td></tr>
+<tr><td>S + modal + be + past participle</td><td>passive with modals</td><td>This door must be kept locked.</td></tr>
+<tr><td>It is + said/thought/believed + that + S + verb</td><td>reporting passive</td><td>It is said that he is rich.</td></tr>
+<tr><td>S + is said/thought/believed + to + verb (base)</td><td>reporting passive + infinitive</td><td>He is believed to be honest.</td></tr>
+<tr><td>S + is said + to have + past participle</td><td>reporting passive + perfect infinitive</td><td>She is said to have left.</td></tr>
+<tr><td>S + have/has + object + past participle</td><td>have + object + done</td><td>I had my car repaired.</td></tr>
+<tr><td>S + get/gets + object + past participle</td><td>get + object + done</td><td>She gets her hair cut.</td></tr>
+<tr><td>S + make + person + verb (base)</td><td>make + person + verb (force)</td><td>The teacher made me rewrite.</td></tr>
+<tr><td>S + get + person + to + verb (base)</td><td>get + person + to (persuade)</td><td>I got him to help.</td></tr>
+<tr><td>S + have + person + verb (base)</td><td>have + person + verb (arrange)</td><td>I had the plumber fix it.</td></tr>
+<tr><td>S + wish (that) + S + past simple</td><td>wish + past simple</td><td>I wish I had a car.</td></tr>
+<tr><td>S + wish (that) + S + past perfect</td><td>wish + past perfect</td><td>I wish I had studied more.</td></tr>
+<tr><td>If only + S + past simple</td><td>if only + past simple</td><td>If only it wasn't raining.</td></tr>
+<tr><td>If only + S + past perfect</td><td>if only + past perfect</td><td>If only I had known.</td></tr>
+<tr><td>Opinion + size + age + shape + colour + origin + material + purpose + noun</td><td>order of adjectives</td><td>A beautiful small old round blue French wooden desk.</td></tr>
+<tr><td>possessive adjective + noun … be + possessive pronoun</td><td>my vs. mine / your vs. yours</td><td>This is my book. This book is mine.</td></tr>
+<tr><td>S + be + very/quite/rather + gradable adjective</td><td>very good / quite tired</td><td>The film was very good.</td></tr>
+<tr><td>S + be + absolutely/completely + ungradable adjective</td><td>absolutely wonderful</td><td>The view was absolutely wonderful.</td></tr>
+<tr><td>S + be + adjective + preposition + noun/verb-ing</td><td>good at / afraid of / interested in</td><td>She is good at maths.</td></tr>
+<tr><td>S + adverb (mid) + main verb</td><td>adverb before main verb / after be</td><td>I often visit her. She is always late.</td></tr>
+<tr><td>S + verb + object + adverb (end)</td><td>adverb after verb and object</td><td>She arrived late.</td></tr>
+<tr><td>Adverb (sentence) + S + verb</td><td>fortunately / unfortunately / probably</td><td>Unfortunately, I missed the bus.</td></tr>
+<tr><td>Hedging adverb + S + verb</td><td>presumably / arguably / tentatively</td><td>The results are arguably inconclusive.</td></tr>
+<tr><td>Noun + who/which/that + verb (defining)</td><td>defining relative clause</td><td>The woman who lives next door is a doctor.</td></tr>
+<tr><td>Noun + , who/which/whose/where/when + verb (non-defining)</td><td>non-defining relative clause</td><td>My mother, who is 65, still works.</td></tr>
+<tr><td>Noun + verb-ing (active reduced clause)</td><td>present participle</td><td>The man standing over there is my uncle.</td></tr>
+<tr><td>Noun + verb-ed (passive reduced clause)</td><td>past participle</td><td>Cars made in Japan are reliable.</td></tr>
+<tr><td>While/When/After/Before + verb-ing/verb-ed, + S + verb</td><td>reduced adverb clause</td><td>While studying, I listen to music.</td></tr>
+<tr><td>Never/Rarely/Seldom + aux + S + verb</td><td>never / rarely + inversion</td><td>Never have I seen such beauty.</td></tr>
+<tr><td>Hardly + had + S + past participle + when + S + past simple</td><td>hardly...when + inversion</td><td>Hardly had I arrived when it rang.</td></tr>
+<tr><td>Not only + aux + S + verb + but + S + also + verb</td><td>not only...but also + inversion</td><td>Not only did she pass, but she also got an A.</td></tr>
+<tr><td>So + adjective + be + S + that + S + verb</td><td>so...that + inversion</td><td>So beautiful was the sunset that we stopped.</td></tr>
+<tr><td>Only then/Only when + aux + S + verb</td><td>only + inversion</td><td>Only then did I understand.</td></tr>
+<tr><td>Had + S + past participle, + would have + past participle</td><td>inverted third conditional</td><td>Had I known, I would have helped.</td></tr>
+<tr><td>Were + S + to-infinitive, + would + verb (base)</td><td>inverted second conditional</td><td>Were she to arrive late, we would start.</td></tr>
+<tr><td>Should + S + verb (base), + will/would + verb (base)</td><td>inverted first conditional</td><td>Should you need anything, please ask.</td></tr>
+<tr><td>It is/was + focus + that/who + rest of clause</td><td>cleft sentence (it)</td><td>It was Tom who broke the window.</td></tr>
+<tr><td>What + clause + is/was + focus</td><td>cleft sentence (what)</td><td>What I need is a holiday.</td></tr>
+<tr><td>It is + essential/crucial + that + S + verb (base)</td><td>subjunctive after adjective</td><td>It is essential that he be present.</td></tr>
+<tr><td>S + suggest/recommend/demand + that + S + verb (base)</td><td>subjunctive after verb</td><td>They recommend that she take the medicine.</td></tr>
+<tr><td>A/An + singular noun + verb (singular) (generic)</td><td>a/an for generic meaning</td><td>A whale is a mammal.</td></tr>
+<tr><td>No article + plural noun + verb (plural) (generic)</td><td>no article for generic meaning</td><td>Whales are intelligent.</td></tr>
+<tr><td>The + singular noun + verb (singular) (formal generic)</td><td>the for formal generic</td><td>The whale is endangered.</td></tr>
+<tr><td>S + be at + home/school/work (no article)</td><td>no article with institutions</td><td>She is at home. He is at work.</td></tr>
+<tr><td>S + go to + bed/prison/hospital (no article)</td><td>no article with purpose</td><td>He went to bed early.</td></tr>
+<tr><td>S + travel/go + by + transport (no article)</td><td>by bus / by car / on foot</td><td>I go to work by bus.</td></tr>
+<tr><td>S + verb + between + A + and + B</td><td>between (two items)</td><td>I sat between Tom and Ann.</td></tr>
+<tr><td>S + verb + among + plural noun</td><td>among (group)</td><td>She was among friends.</td></tr>
+<tr><td>S + be/live/fly + above + noun</td><td>above (higher than)</td><td>The plane flew above the clouds.</td></tr>
+<tr><td>S + be/put + over + noun</td><td>over (covering)</td><td>Put a blanket over the baby.</td></tr>
+<tr><td>S + verb + beside + noun</td><td>beside (next to)</td><td>She sat beside me.</td></tr>
+<tr><td>Besides + noun/verb-ing, + S + verb</td><td>besides (in addition to)</td><td>Besides English, she speaks French.</td></tr>
+<tr><td>S + verb + like + noun</td><td>like (similar to)</td><td>She sings like an angel.</td></tr>
+<tr><td>S + work/act + as + noun</td><td>as (in the role of)</td><td>She works as a teacher.</td></tr>
+<tr><td>S + verb + as + S + verb</td><td>as (in the same way)</td><td>Do as I say.</td></tr>
+<tr><td>There is + demand for / need for / reason for + noun</td><td>noun + preposition (for)</td><td>There is a high demand for nurses.</td></tr>
+<tr><td>S + depend on / lead to / belong to / wait for + noun</td><td>verb + preposition</td><td>Success depends on hard work.</td></tr>
+<tr><td>Although/Even though/Though + S + verb, + S + verb</td><td>concession clause</td><td>Although it rained, we went out.</td></tr>
+<tr><td>Despite/In spite of + noun/verb-ing, + S + verb</td><td>concession phrase</td><td>Despite the rain, we went out.</td></tr>
+<tr><td>S + verb + so that + S + can/will + verb (base)</td><td>purpose clause</td><td>She studies hard so that she can pass.</td></tr>
+<tr><td>S + verb + in order to + verb (base)</td><td>in order to (formal purpose)</td><td>I got up early in order to catch the train.</td></tr>
+<tr><td>Furthermore/Moreover/In addition + S + verb</td><td>addition markers</td><td>The plan is risky. Furthermore, it is expensive.</td></tr>
+<tr><td>However/Nevertheless/On the other hand + S + verb</td><td>contrast markers</td><td>The plan is risky. Nevertheless, we should try.</td></tr>
+<tr><td>Therefore/Consequently/As a result + S + verb</td><td>result markers</td><td>It rained heavily. Therefore, the match was cancelled.</td></tr>
+<tr><td>Firstly/Secondly/Finally/Next/Then + S + verb</td><td>sequencing markers</td><td>Firstly, we need to plan. Then we can act.</td></tr>
+<tr><td>The + noun + of + noun (nominalisation)</td><td>nominalisation</td><td>The implementation of the policy took years.</td></tr>
+<tr><td>A, B, and C (same grammatical form)</td><td>parallel structure</td><td>She likes singing, dancing, and painting.</td></tr>
+<tr><td>S + verb + adjective + noun (no extra words)</td><td>remove redundant words</td><td>The car was red. (Not: red in colour.)</td></tr>
+<tr><td>While + S + verb, + S + verb</td><td>complex contrast</td><td>While evidence supports it, doubts remain.</td></tr>
+<tr><td>S + verb; however/nevertheless, + S + verb</td><td>semicolon + discourse marker</td><td>Results were positive; however, more research is needed.</td></tr>
+<tr><td>Not only + aux + S + verb + but + S + also + verb</td><td>not only...but also</td><td>Not only is she brilliant, but she is also kind.</td></tr>
+<tr><td>It is + noun/adjective + that + S + verb</td><td>extraposition</td><td>It is a fact that smoking kills.</td></tr>
+<tr><td>What + S + verb + is/was + that + S + verb</td><td>what-clause as subject</td><td>What surprised me was that he refused.</td></tr>
+</tbody>
+</table>
+</body>
+</html>
